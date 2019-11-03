@@ -1,0 +1,16 @@
+name: Yeomryo Stat
+version: 1
+main: com.yeomryo.stat.main
+commands:
+  스텟:
+      description: 스텟에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>
+  stat:
+      description: 스텟에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>
+  yrcmd:
+      description: 스텟에 관련된 명령어입니다. by 염료
+      permission: 
+      usage: /<command>

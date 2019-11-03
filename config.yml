@@ -1,0 +1,51 @@
+exp:
+  mine:
+    coal: 10
+    iron: 10
+    gold: 10
+    redstone: 10
+    lapis: 10
+    diamond: 10
+    emerald: 10
+  mob:
+    creeper: 10
+    skeletone: 10
+    spider: 10
+    zombie: 10
+    slime: 10
+    ghast: 10
+    pigman: 10
+    enderman: 10
+    silverfish: 10
+    blaze: 10
+    magmacube: 10
+    pig: 10
+    sheep: 10
+    cow: 10
+    chicken: 10
+    squid: 10
+    wolf: 10
+    ocelot: 10
+    villager: 10
+    player: 10
+    
+stats:
+  atk: 0.5
+  def: 0.5
+  hp: 0.5
+  drain: 0.5
+  dex: 0.005
+  gen: 0.5
+  stun: 0.5
+  fire: 0.5
+  knockback: 0.5
+  thorn: 0.5
+  poison: 0.5
+  wither: 0.5
+  critical: 0.5
+  mineluck: 0.5
+  farmluck: 0.5
+  mosick: 0.5
+  blind: 0.5
+  tired: 0.5
+  weakness: 0.5
